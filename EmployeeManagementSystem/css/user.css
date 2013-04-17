@@ -1,0 +1,45 @@
+﻿body
+{
+	font-family: Segoe UI;
+}
+
+#title
+{
+	font-size: 24px;
+}
+
+td.search
+{
+	background-color: Silver;
+	width: 50%;
+}
+
+td.tip
+{
+	background-color: Turquoise;
+	width: 30%;
+}
+
+td.blank
+{
+	background-color: Silver;
+	width: 70%;
+}
+
+.suggest_link
+{
+	background-color: #FFFFFF;
+	padding: 2px 6px 2px 6px;
+}
+.suggest_link_over
+{
+	background-color: #E8F2FE;
+	padding: 2px 6px 2px 6px;
+}
+.search_suggest
+{
+	position: absolute;
+	background-color: #FFFFFF;
+	text-align: left;
+	border: 1px solid #000000;
+}
